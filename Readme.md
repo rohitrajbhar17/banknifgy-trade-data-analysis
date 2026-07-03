@@ -5,7 +5,7 @@ Analysing the trading system using Excel, Python and Power BI.
 ---
 ## Table of contents
 
-- <a href="#Overview">Overview</a>
+- <a href="#overview">Overview</a>
 - <a href="#Trading-system-problem">Trading system problem</a>
 - <a href="#Dataset"> Dataset</a>
 - <a href="#Tools--Technologies">Tools & Technologies</a>
@@ -26,7 +26,7 @@ This project establishes a rigorous, automated analytics framework to analyze th
 
 
 ---
-<h2><a class="anchor" id="trading-system-problem"></a>Business Problem</h2>
+<h2><a class="anchor" id="Trading-system-problem"></a>Business Problem</h2>
 
 
 
@@ -46,7 +46,7 @@ Many derivative traders scale automated systems without verifying their statisti
 
 
 ---
-<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+<h2><a class="anchor" id="Dataset"></a>Dataset</h2>
 
 
 
@@ -94,7 +94,7 @@ A specialized dimensions-style table hosting optimized DAX measures to run vecto
 
 
 ---
-<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+<h2><a class="anchor" id="Tools--Technologies"></a>Tools & Technologies</h2>
 
 
 
