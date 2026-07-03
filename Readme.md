@@ -26,7 +26,7 @@ This project establishes a rigorous, automated analytics framework to analyze th
 
 
 ---
-<h2><a class="anchor" id="Trading-system-problem"></a>Business Problem</h2>
+<h2><a class="anchor" id="Trading-system-problem"></a>Trading System Problem</h2>
 
 
 
