@@ -8,8 +8,7 @@ Analysing the trading system using Excel, Python and Power BI.
 - <a href="#Overview">Overview</a>
 - <a href="#Trading-system-problem">Trading system problem</a>
 - <a href="#Dataset"> Dataset</a>
-- <a href="#Tools--Technologies">
-Tools & Technologies</a>
+- <a href="#Tools--Technologies">Tools & Technologies</a>
 - <a href="#Project-Structure">Project Structure</a>
 - <a href="#Data Cleaning--prepration">Data Cleaning \& prepration</a>
 - <a href="#Research-Questions--Key-Findings">Research Question \& Key Findings</a>
@@ -19,7 +18,7 @@ Tools & Technologies</a>
 
 
 ---
-<h2><a class="anchor" id="overview></a> Overview </h2>
+<h2><a class="anchor" id="overview"></a> Overview </h2>
 
 
 
@@ -183,8 +182,9 @@ combined with a smaller average profit floor confirms that current entry/exit ru
 
 ---
 ##### Dashboard
+Here My Power BI Dashboard 
 
-![Project_Trade_analysis](Dashnoard.png)
+![Project_Trade_analysis](Dashboard.png)
 
 
 ---
@@ -203,7 +203,7 @@ combined with a smaller average profit floor confirms that current entry/exit ru
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
-**Rohit Rajbhar**  
-Data Analyst  
-📧 Email: rohitrajbharmail@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rohit-rajbhar-public/)  
+Rohit Rajbhar<br> 
+Data Analyst<br>  
+📧 Email: rohitrajbharmail@gmail.com<br>  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-rajbhar-public/)
